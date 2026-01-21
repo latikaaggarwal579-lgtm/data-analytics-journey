@@ -1,1 +1,29 @@
+# Sales Performance Dashboard (Excel)
 
+## 📌 Project Overview
+This project is an interactive **Excel-based Sales Performance Dashboard** designed to analyze business sales data and support data-driven decision-making.
+
+## 🔹 Key KPIs
+- Total Sales
+- Total Orders
+- Total Customers
+
+## 🔹 Analysis Included
+- Sales by Category
+- Sales by Region
+- Sales by each Sub Category
+- Top 10 Products by Sales
+- Top 10 States by Sales
+- Sales by Segment
+
+## 🛠 Tools Used
+- Microsoft Excel
+- Pivot Tables
+- Charts & KPI Cards
+- Slicers & Filters
+
+## 🎯 Business Objective
+To help management quickly identify high-performing categories, regions, and products, and make informed business decisions.
+
+## 📊 Dashboard Preview
+![Sales Dashboard](Dashboard_Preview.png)
